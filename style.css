@@ -20,5 +20,15 @@ article{
 
 nav{
     text-align:center;
-    front-size:36;
+    font-size:16pt;
+}
+
+.article_header{
+    width: 100%;
+    height: 5%;
+}
+
+section{
+    width: 100%;
+    height: 100%;
 }
