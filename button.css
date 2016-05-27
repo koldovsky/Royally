@@ -6,9 +6,9 @@
     width: 220px;
     height: 220px;
     background: radial-gradient(#FF0000,#A40000);
-    position:relative;
-    left:0%;
-    bottom:-35%;
+    position:absolute;
+    left:11%;
+    bottom:23%;
 }
 
 .button2 {
@@ -19,9 +19,9 @@
     width: 210px;
     height: 210px;
     background: radial-gradient(#239A25,#09E60D);
-    position:relative;
-    bottom:-28%;
-    left:15%;
+    position:absolute;
+    bottom:20%;
+    left:53%;
 }
 
 .button3 {
@@ -32,8 +32,8 @@
     width: 150px;
     height: 150px;
     background: radial-gradient(#40B2B2,#1BFFFF);
-    position:relative;
-    bottom:20%;
+    position:absolute;
+    bottom:50%;
     left:35%;
     
 }
@@ -46,7 +46,7 @@
     width: 140px;
     height: 140px;
     background: radial-gradient(#E938E3,#F306EB);
-    position:relative;
-    bottom:20%;
-    left:20%;
+    position:absolute;
+    bottom:53%;
+    left:70%;
 }
