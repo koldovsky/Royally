@@ -3,12 +3,12 @@
     border-radius: 50%;
     border: 2px double white; 
     background-color:red;
-    width: 22%;
-    height: 25%;
+    width: 160px;
+    height: 160px;
     background: radial-gradient(#FF0000,#A40000);
-    position:fixed;
+    position:absolute;
     left:11%;
-    bottom:18%;
+    bottom:23%;
 }
 
 .button2 {
@@ -16,12 +16,12 @@
     border-radius: 50%;
     border: 2px double white; 
     background-color:red;
-    width: 21%;
-    height: 23%;
+    width: 160px;
+    height: 160px;
     background: radial-gradient(#239A25,#09E60D);
-    position:fixed;
-    bottom:23%;
-    left:50%;
+    position:absolute;
+    bottom:20%;
+    left:53%;
 }
 
 .button3 {
@@ -29,10 +29,10 @@
     border-radius: 50%;
     border: 2px double white; 
     background-color:red;
-    width: 10%;
-    height: 12%;
+    width: 100px;
+    height: 100px;
     background: radial-gradient(#40B2B2,#1BFFFF);
-    position:fixed;
+    position:absolute;
     bottom:50%;
     left:35%;
     
@@ -43,10 +43,10 @@
     border-radius: 40%;
     border: 2px double white; 
     background-color:red;
-    width: 10%;
-    height: 12%;
+    width: 90px;
+    height: 90px;
     background: radial-gradient(#E938E3,#F306EB);
-    position:fixed;
+    position:absolute;
     bottom:53%;
     left:70%;
 }
