@@ -3,8 +3,8 @@
     border-radius: 50%;
     border: 2px double white; 
     background-color:red;
-    width: 160px;
-    height: 160px;
+    width: 220px;
+    height: 220px;
     background: radial-gradient(#FF0000,#A40000);
     position:absolute;
     left:11%;
@@ -16,8 +16,8 @@
     border-radius: 50%;
     border: 2px double white; 
     background-color:red;
-    width: 160px;
-    height: 160px;
+    width: 210px;
+    height: 210px;
     background: radial-gradient(#239A25,#09E60D);
     position:absolute;
     bottom:20%;
@@ -29,8 +29,8 @@
     border-radius: 50%;
     border: 2px double white; 
     background-color:red;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background: radial-gradient(#40B2B2,#1BFFFF);
     position:absolute;
     bottom:50%;
@@ -43,8 +43,8 @@
     border-radius: 40%;
     border: 2px double white; 
     background-color:red;
-    width: 90px;
-    height: 90px;
+    width: 140px;
+    height: 140px;
     background: radial-gradient(#E938E3,#F306EB);
     position:absolute;
     bottom:53%;
